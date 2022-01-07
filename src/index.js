@@ -4,10 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import myComponent from './myComponent'
-import helloworld from './helloworld'
-import myState from './myState'
-import myProps from './myProps'
+// import myComponent from './myComponent'
+// import helloworld from './helloworld'
+// import myState from './myState'
+// import myProps from './myProps'
+// import myPropsValidator from './myPropsValidator'
+// import myEvent from './myEvent'
+// import conditionRendering from './conditionRendering'
+// import listAndKeys from './List&Keys'
+// import componentLifeCycle from './componentLifeCycle'
+import ajax from './AJAX'
 
 // ReactDOM.render(
 //   <React.StrictMode>
