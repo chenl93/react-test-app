@@ -13,7 +13,9 @@ import reportWebVitals from './reportWebVitals';
 // import conditionRendering from './conditionRendering'
 // import listAndKeys from './List&Keys'
 // import componentLifeCycle from './componentLifeCycle'
-import ajax from './AJAX'
+// import ajax from './AJAX'
+// import formAndEvent from './formAndEvent'
+import refs from './refs'
 
 // ReactDOM.render(
 //   <React.StrictMode>
